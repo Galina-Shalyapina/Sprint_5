@@ -1,0 +1,16 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Selenium WebDriver logs
+/logs/
+
+# IDE files
+.idea/
+.vscode/
+
+# Virtual environment
+venv/
+.venv/
+.env/
