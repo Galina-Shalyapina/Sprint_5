@@ -1,5 +1,3 @@
-import time
-
 from helpers import wait_for_element_visibility, login_user, open_main_page
 from locators import TestLocators
 
